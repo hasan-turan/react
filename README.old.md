@@ -31,3 +31,7 @@ A github test project
 -Material Icon Theme
 #npm
 -npm install -g create-react-app
+
+#json-server
+Error: json-server.ps1 cannot be loaded because running script s is disabled on this system.
+Solution: Run powershell as admin then run command -> Set-ExecutionPolicy RemoteSigned
