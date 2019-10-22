@@ -2,7 +2,16 @@
 A github test project
 #Videos
 -Integrate existing local project with git repository: https://www.youtube.com/watch?v=OVL7R0eT8jw
-
+#Git commands
+-delete directory: rd .git /S/Q
+-generate .git folder: git init 
+-bind local workspace tp remote git: git remote add origin "https://...removtegit.git"
+-remove folder recorsivly: git rm -r "foldername or filename"
+-checkout branch: git checkout master
+-add local folder content to remote: git add .
+-commit to git: git commit -m "Description"
+-push to origin :git push origin master(origin name)
+-pull from origin : git pull origin master(origin name)
 #Tools
 -Auto rename tags
 -Bracket pair colorizer
