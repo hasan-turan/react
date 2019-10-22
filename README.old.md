@@ -1,10 +1,10 @@
-# todolist
+### todolist
 
 A github test project
 #Videos
 -Integrate existing local project with git repository: https://www.youtube.com/watch?v=OVL7R0eT8jw
 
-# Git commands
+### Git commands
 
 -delete directory: rd .git /S/Q  
 -generate .git folder: git init  
@@ -16,7 +16,7 @@ A github test project
 -remove folder recorsivly: git rm -r "foldername or filename"  
 -checkout branch: git checkout master
 
-# Tools
+### Tools
 
 -Auto rename tags
 -Bracket pair colorizer
@@ -24,7 +24,7 @@ A github test project
 -ESLint
 -Prettier - Code formatter
 
-# Tools?
+### Tools?
 
 -Dart
 -Flutter
