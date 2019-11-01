@@ -9,12 +9,14 @@ A github test project
 -delete directory: rd .git /S/Q  
 -generate .git folder: git init  
 -bind local workspace tp remote git: git remote add origin "https://...removtegit.git"  
--add local folder content to remote: git add .  
+-add local folder content to remote: git add .
+-add local file to remote : git add filename.txt 
 -commit to git: git commit -m "Description"  
 -push to origin :git push origin master(origin name)  
 -pull from origin : git pull origin master(origin name) //for fatal:refusing to merge unrelated histories use --allow-unrelated-histories
 -remove folder recorsivly: git rm -r "foldername or filename"  
 -checkout branch: git checkout master
+
 
 ### Tools
 
